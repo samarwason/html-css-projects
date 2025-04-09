@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not project1 folder
+!project1/
+!project1/**
+
+# Keep the .gitignore itself
+!.gitignore
